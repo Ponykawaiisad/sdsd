@@ -1,5 +1,6 @@
 # HOLA
  PONYYYY
+gh repo clone aircrack-ng/aircrack-ng
 
 	"name": "Aircrack-ng",
 	"build": {
