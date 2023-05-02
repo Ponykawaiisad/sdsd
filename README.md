@@ -1,6 +1,4 @@
-# HOLA
- PONYYYY
-gh repo clone aircrack-ng/aircrack-ng
+# pony
 # pages.de/common/airmon-ng.md
 	"name": "Aircrack-ng",
 	"build": {
@@ -43,3 +41,4 @@ gh repo clone aircrack-ng/aircrack-ng
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
 }
+			
